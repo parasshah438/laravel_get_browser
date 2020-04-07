@@ -8,3 +8,7 @@
 </p>
 
 ## About Laravel
+
+> composer require jenssegers/agent
+
+> composer require hisorange/browser-detect
